@@ -723,6 +723,9 @@ color:white;
 }
 }
 @media only screen and (max-width:540px){
+      .Skills_container{
+    width: 100%;
+  }
   .same-height {
       width: 154px;
   }
